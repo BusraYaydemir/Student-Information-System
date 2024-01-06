@@ -325,7 +325,7 @@ insert into Courses (CourseCode, coursename, CourseCredit, CourseECTS, CourseTyp
 insert into Courses (CourseCode, coursename, CourseCredit, CourseECTS, CourseType, CourseLanguage, departmentID, teacherID) values ('SWE402', 'Internet Programming	', 5, 5, 'Elective', 'English', 5, 58);
 insert into Courses (CourseCode, coursename, CourseCredit, CourseECTS, CourseType, CourseLanguage, departmentID, teacherID) values ('SWE449', 'Parallel Programming	', 6, 4, 'Elective', 'Turkish', 18, 45);
 insert into Courses (CourseCode, coursename, CourseCredit, CourseECTS, CourseType, CourseLanguage, departmentID, teacherID) values ('SWE492', 'Software Engineering Graduation Project II', 7, 4, 'Compulsory', 'Turkish', 6, 6);
-insert into Courses (CourseCode, coursename, CourseCredit, CourseECTS, CourseType, CourseLanguage, departmentID, teacherID) values ('ÃœSD103', 'Folk dances', 4, 2, 'Elective', 'English', 4, 51);
+insert into Courses (CourseCode, coursename, CourseCredit, CourseECTS, CourseType, CourseLanguage, departmentID, teacherID) values ('ÜSD103', 'Folk dances', 4, 2, 'Elective', 'English', 4, 51);
 
 
 
